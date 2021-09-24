@@ -2,18 +2,21 @@
 export const theme = {
   colors: {
     bluish: '#0A1931',
-    grey: ' #90A0B7',
+    grey: ' #e0e8f3',
     hoverBlue: '#109CF1',
     tableBlack: '#323C47'
   },
   margins: {
+    mr240: '15em',
     mr230: '14.375em',
     mr78: '4.8125em',
+    mr70: '4.375em',
     mr60: '3.75em',
     mr50: '3.125em',
-    mr40: '2.5 em',
+    mr40: '2.5em',
     mr35: '2.1875em ',
     mr30: '1.875em ',
+    mr25: ' 1.5625em',
     mr20: '1.25em',
     mr18: '1.125em',
     mr15: '0.9375em ',
